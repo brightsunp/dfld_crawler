@@ -3,6 +3,6 @@
 
 `requirements.txt` 看似很多，其实只需要：`pip install scrapy pywin32`
 
-[这里](#) 是项目的思路和总结。
+项目的思路见 [这里](https://brightsunp.github.io/2018/12/07/scrapy%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/)。
 
 2018.12.7
